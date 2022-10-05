@@ -1,0 +1,54 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+}
+.logo{
+    width: 50px;
+}
+.navbar{
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    list-style: none;
+}
+header ul a {
+    text-decoration: none;
+    color: #000;
+    font-weight:bold ;
+}
+.breadcrumbs{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 25%;
+    font-size: smaller;
+    
+}
+section {
+    margin-left:  30px;
+    margin-right: 700px;
+}
+footer{
+    margin: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.filmcontainer{
+    width: 270px;
+    border: 2px solid #000;
+    text-align: center;
+}
+.filmImage{
+    width: 250px;
+    margin: auto;
+    margin-top: 10px;
+}
+.info{
+    list-style: none;
+    text-align: center;
+    margin-right: 60px;
+
+}
