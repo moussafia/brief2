@@ -12,6 +12,8 @@ header {
     width: 60%;
     justify-content: space-between;
     list-style: none;
+    font-size:medium;
+    font-weight: bolder;
 }
 header ul a {
     text-decoration: none;
@@ -45,6 +47,24 @@ footer{
     width: 250px;
     margin: auto;
     margin-top: 10px;
+}
+.info1{
+    font-size: x-large;
+}
+.info2{
+    color:#b7b4ad;
+    font-size: small;
+}
+.info3{
+    font-size: small;
+}
+.info3 span{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.info4{
+    color: rgb(115,173,82);
+    font-weight: bold;
 }
 .info{
     list-style: none;
